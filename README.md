@@ -26,7 +26,7 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 ## SARSA LEARNING FUNCTION
 Developed by : Pradeepraj P
 
-Reg no : 212222240079
+Reg no : 212222240073
 ```
 def sarsa(env,
           gamma=1.0,
